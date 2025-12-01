@@ -1,10 +1,10 @@
  ## BuyBuzz
 Project Link: https://github.com/anaulislam9725/E-Commerce-App
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2a46a812-1773-4ce1-ac0c-28ce013f3fb0" width="24%">
-  <img src="https://github.com/user-attachments/assets/1e76ca27-1caa-4ccf-8786-aa84164ba4ce" width="24%">
-  <img src="https://github.com/user-attachments/assets/b7b8c3ee-4e3b-4115-9d9e-364e95bfbd9e" width="24%">
-  <img src="https://github.com/user-attachments/assets/8f01518f-c279-4a61-9680-5a4a51d6432b" width="24%">
+  <img src="https://github.com/user-attachments/assets/2a46a812-1773-4ce1-ac0c-28ce013f3fb0" width="24%",height="100px">
+  <img src="https://github.com/user-attachments/assets/1e76ca27-1caa-4ccf-8786-aa84164ba4ce" width="24%",height="100px">
+  <img src="https://github.com/user-attachments/assets/b7b8c3ee-4e3b-4115-9d9e-364e95bfbd9e" width="24%",height="100px">
+  <img src="https://github.com/user-attachments/assets/8f01518f-c279-4a61-9680-5a4a51d6432b" width="24%",height="100px">
 </p>
 
 <p align="center">
@@ -52,4 +52,33 @@ Project Link: https://github.com/anaulislam9725/-figma_design_and_signup_login_w
     <td><img src="https://github.com/user-attachments/assets/c962c9e4-a5ac-4907-af05-ca95e89e181e" width="200"></td>
   </tr>
 </table>
+
+
+ ## Grocery App
+Project Link: https://github.com/anaulislam9725/grocery_shop_app
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c1f5ddcb-5cfe-4097-8410-b46b132f6b3c" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/33664db9-f3d2-4412-b7cf-a7d20942f9e2" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/65b1211b-f057-40bf-949b-a9ab130598f6" width="200"></td>
+    <td></td> 
+  </tr>
+</table>
+
+
+ ## Travel App
+Project Link: https://github.com/anaulislam9725/ui_design
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ff0ddf37-e064-44d7-85f5-d0a0258bae6c" height="250px"></td>
+    <td><img src="https://github.com/user-attachments/assets/f79ee9fe-de2b-40f3-9544-5b35e0bc605c" height="250px"></td>
+    <td><img src="https://github.com/user-attachments/assets/6cfe88c4-8307-4246-b697-d462844c60a0" height="250px"></td>
+    <td><img src="https://github.com/user-attachments/assets/fd39eb87-39e1-4bab-9056-d455f2157713" height="250px"></td>
+  </tr>
+</table>
+
+
+
+
+
 
