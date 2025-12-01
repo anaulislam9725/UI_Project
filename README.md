@@ -104,7 +104,68 @@ Project Link: https://github.com/anaulislam9725/on_boarding_screen.git
 </table>
 
 
- ## OnBording Screen
+ ## Responsiv Design
 Project Link: https://github.com/anaulislam9725/responsive-design-mitch-koko
 
 <img width="2835" height="1835" alt="211211723-806aea69-885b-4d00-b60c-0380ff6baa49" src="https://github.com/user-attachments/assets/d484be00-23b5-4eff-bffa-3ae30bc811e7" />
+
+
+ ## Messenger page
+Project Link: https://github.com/anaulislam9725/messenger-screen-design
+<table border="0" style="border-collapse: collapse;">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0f100e8a-05f5-4b4b-9504-b382aa1c792d" width="200"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+ ## Login and SignUp page
+Project Link: https://github.com/anaulislam9725/new-signUp_login_page_with-_validation
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6ca2abf9-652a-4fed-9851-1402ee7d7199" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/80276b82-eeed-4cda-8c74-c03aca4bbcb0" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/812aec92-6a14-4c7c-a9e4-0d70499c0d71" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/f74b7fae-0115-42da-a48e-f9643a2aa690" width="200"></td>
+  </tr>
+</table>
+
+ ## Login and SignUp design
+Project Link: https://github.com/anaulislam9725/login-page-with-validation-mitch-koku
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f0df8c6b-2cc8-42ab-9cf3-c585fd13d2fa" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/17435dc8-cff6-41ae-8b1a-67260a4b6f53" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/76f22a3e-d7f2-44cf-b4cc-7babc84b9beb" width="200"></td>
+    <td></td>
+  </tr>
+</table>
+
+
+## Home Screen design
+Project Link: https://github.com/anaulislam9725/smart-home-page-design
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/15e3816c-b094-4d7d-a2dc-af200258febc" width="200"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+## WhatsApp
+Project Link: https://github.com/anaulislam9725/whatsApp_ui-_design
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/03a770bc-07f0-413e-a8a3-dc9f64830564" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/aec3b32e-5e20-46f1-ab24-fe8975ec5270" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/63467589-cf67-4581-ade9-55b055578290" width="200"></td>
+    <td></td>
+  </tr>
+</table>
+
+
