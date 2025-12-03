@@ -40,8 +40,7 @@ Project Link: https://github.com/anaulislam9725/E-Commerce-App
  <img src="https://github.com/user-attachments/assets/ee8859ea-7f59-4736-ba0a-5e2d8fc5101d" width="24%">
   <img src="https://github.com/user-attachments/assets/8f01518f-c279-4a61-9680-5a4a51d6432b" width="24%",height="100px">
   
-  
-  
+   
 </p>
 
 
@@ -126,7 +125,7 @@ Project Link: https://github.com/anaulislam9725/on_boarding_screen.git
 
 
  ## Responsiv Design
-Project Link: https://github.com/anaulislam9725/responsive-design-mitch-koko
+Project Link: https://github.com/anaulislam9725/responsive-design2
 
 <img width="2835" height="1835" alt="211211723-806aea69-885b-4d00-b60c-0380ff6baa49" src="https://github.com/user-attachments/assets/d484be00-23b5-4eff-bffa-3ae30bc811e7" />
 
@@ -143,7 +142,7 @@ Project Link: https://github.com/anaulislam9725/messenger-screen-design
 </table>
 
  ## Login and SignUp page
-Project Link: https://github.com/anaulislam9725/new-signUp_login_page_with-_validation
+Project Link: https://github.com/anaulislam9725/Login-and-SignUp-page
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/80276b82-eeed-4cda-8c74-c03aca4bbcb0" width="200"></td>
