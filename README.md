@@ -78,7 +78,7 @@ Project Link: https://github.com/anaulislam9725/grocery_shop_app
     <td><img src="https://github.com/user-attachments/assets/33664db9-f3d2-4412-b7cf-a7d20942f9e2" width="200"></td>
        <td><img src="https://github.com/user-attachments/assets/c1f5ddcb-5cfe-4097-8410-b46b132f6b3c" width="200"></td>
    
-    <td></td> 
+
   </tr>
 </table>
 
